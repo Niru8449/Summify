@@ -31,7 +31,7 @@ To run this application locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/youtube-transcript-summarizer.git
+   git clone https://github.com/Niru8449/Summify.git
    cd youtube-transcript-summarizer
    
 2. **Install the required dependencies**:
